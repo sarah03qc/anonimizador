@@ -1,0 +1,233 @@
+{
+  "description": "Solo ejemplos ficticios. Evaluación pequeña de regresión, no estimación de rendimiento institucional.",
+  "entities": [
+    {
+      "text": "La madre María Rodríguez llamó al 8888-1234.",
+      "entities": [
+        [
+          9,
+          24,
+          "PERSON"
+        ],
+        [
+          34,
+          43,
+          "PHONE_NUMBER"
+        ]
+      ]
+    },
+    {
+      "text": "Escriba a prueba@example.test.",
+      "entities": [
+        [
+          10,
+          29,
+          "EMAIL_ADDRESS"
+        ]
+      ]
+    },
+    {
+      "text": "Cédula: 1-0999-0888.",
+      "entities": [
+        [
+          8,
+          19,
+          "CR_NATIONAL_ID"
+        ]
+      ]
+    },
+    {
+      "text": "DIMEX: 123456789012.",
+      "entities": [
+        [
+          7,
+          19,
+          "CR_DIMEX"
+        ]
+      ]
+    },
+    {
+      "text": "Teléfono +506 8888 1234.",
+      "entities": [
+        [
+          9,
+          23,
+          "PHONE_NUMBER"
+        ]
+      ]
+    },
+    {
+      "text": "José Andrés Muñoz vive en San José.",
+      "entities": [
+        [
+          0,
+          17,
+          "PERSON"
+        ],
+        [
+          26,
+          34,
+          "LOCATION"
+        ]
+      ]
+    },
+    {
+      "text": "María José Peña Quesada",
+      "entities": [
+        [
+          0,
+          23,
+          "PERSON"
+        ]
+      ]
+    },
+    {
+      "text": "Código establecimiento 1100102, oficina 101, región 1.",
+      "entities": []
+    },
+    {
+      "text": "Año 2026, monto 125000, edad 7.",
+      "entities": []
+    },
+    {
+      "text": "Número 123456789 sin contexto personal.",
+      "entities": []
+    },
+    {
+      "text": "Enviar a demo@example.test y llamar al 8777-2222.",
+      "entities": [
+        [
+          9,
+          26,
+          "EMAIL_ADDRESS"
+        ],
+        [
+          39,
+          48,
+          "PHONE_NUMBER"
+        ]
+      ]
+    }
+  ],
+  "columns": [
+    {
+      "header": "nombreCompleto",
+      "values": [
+        "María José Peña Quesada"
+      ],
+      "sensitive": true
+    },
+    {
+      "header": "cédula",
+      "values": [
+        "1-0999-0888"
+      ],
+      "sensitive": true
+    },
+    {
+      "header": "correo electrónico",
+      "values": [
+        "demo@example.test"
+      ],
+      "sensitive": true
+    },
+    {
+      "header": "contacto_1",
+      "values": [
+        "8888-1234"
+      ],
+      "sensitive": true
+    },
+    {
+      "header": "fecha de nacimiento",
+      "values": [
+        "2019-01-01"
+      ],
+      "sensitive": true
+    },
+    {
+      "header": "responsable",
+      "values": [
+        "José Andrés Muñoz"
+      ],
+      "sensitive": true
+    },
+    {
+      "header": "observaciones",
+      "values": [
+        "Enviar a demo@example.test"
+      ],
+      "sensitive": true
+    },
+    {
+      "header": "Región",
+      "values": [
+        "Central"
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Oficina Local",
+      "values": [
+        "Oficina de prueba"
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Establecimiento",
+      "values": [
+        "CEN de prueba"
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Código establecimiento",
+      "values": [
+        1100102
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Código OL",
+      "values": [
+        101
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Código Región",
+      "values": [
+        1
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Año",
+      "values": [
+        2026
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Monto",
+      "values": [
+        125000
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "Edad",
+      "values": [
+        7
+      ],
+      "sensitive": false
+    },
+    {
+      "header": "id",
+      "values": [
+        123456789
+      ],
+      "sensitive": false
+    }
+  ]
+}

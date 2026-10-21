@@ -1,0 +1,12 @@
+{
+  "model": "OpenMed/OpenMed-PII-Spanish-EuroMed-Large-210M-v1",
+  "revision": "eb499b1b8349c606ca425b6d0f57777ae4ba79ff",
+  "sha256": {
+    "config.json": "88e48fcbf1c6e1f2a83c10f11adf9d1fe1dca709300e3f0b9cdd3da1146d0479",
+    "tokenizer.json": "af5ce1447e9242961ce68b983fdda3b1948527349ee6cb8809f6b3b5d63cf686",
+    "tokenizer_config.json": "86075cdb8d0bd9c3425f46ead831ebf49165d8c384b2f425a0a79711703634b8",
+    "special_tokens_map.json": "6d66005b83cd0646e882e57e09c5a3e3e570ef53dd1f6d4315a65943fa81f2f7",
+    "README.md": "212a780b4bb2d7101cebb2d6201967bd0017da0de86ce5b284d603175ed89dfe",
+    "model.safetensors": "b19a6814c19e40366a82f1f0258c36f5955f26409e60ceb18b846ec1a3c4cce8"
+  }
+}

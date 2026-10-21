@@ -1,0 +1,32 @@
+ANONIMIZADOR CEN-CINAI
+
+No necesita instalar Python ni utilizar comandos. Mantenga junta toda la carpeta.
+
+1. Abra "Anonimizador CEN-CINAI.exe" con doble clic.
+2. Espere mientras se abre la aplicación en el navegador.
+3. Seleccione el archivo Excel (.xlsx).
+4. Revise todas las hojas y columnas. Resuelva las columnas amarillas.
+5. Marque la revisión y pulse CONFIRMAR SELECCIÓN.
+6. Compruebe el resumen y pulse ANONIMIZAR ARCHIVO.
+7. Descargue y revise el resultado. El original no se modifica.
+
+La herramienta procesa los archivos localmente y funciona sin Internet.
+Revise siempre todas las columnas antes de anonimizar.
+En texto libre, la detección puede omitir datos: si tiene dudas, elija
+"Reemplazar contenido completo". Esta opción elimina toda la nota.
+
+Mantenga abierta la ventana pequeña de inicio. Para terminar, pulse
+"Cerrar herramienta" en esa ventana. Cerrar una pestaña del navegador
+no apaga el servidor. Si cerró la pestaña, pulse "Abrir aplicación".
+
+No borre ni separe la carpeta _internal. No ejecute desde dentro del ZIP:
+extraiga primero la carpeta completa a una ubicación autorizada del equipo.
+La primera carga del modelo puede tardar varios minutos. Si Windows indica
+memoria insuficiente, cierre otras aplicaciones y vuelva a intentarlo.
+
+La copia necesita validación humana; no certifica anonimización irreversible.
+Encabezados, nombres de hojas y fórmulas conservadas también requieren revisión.
+Las descargas y la sincronización de carpetas dependen de las políticas del equipo.
+
+Se utiliza un icono genérico de archivo y candado, sin logotipo institucional.
+Este paquete no está firmado digitalmente ni equivale a una certificación oficial.

@@ -1,0 +1,7 @@
+{
+  "aviso": "Ejemplos ficticios de regresión en español; no son registros institucionales.",
+  "nombres": ["María José", "José Andrés", "Muñoz", "Quesada", "Gómez", "Peña"],
+  "ubicaciones": ["San José", "Alajuela", "Pérez Zeledón"],
+  "headers": ["correo electrónico", "números telefónicos", "FechaDeNacimiento", "primer_apellido"],
+  "texto": "La madre María José Peña solicitó atención en una oficina ficticia de Pérez Zeledón y dejó el correo demo@example.test."
+}
